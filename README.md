@@ -64,8 +64,6 @@
 
 ## 🏆 GitHub Trophies
 
-**Note:** Replace `your-github-username` with your actual GitHub username in the link below.
-
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=AshishMishra2001&theme=onedark&no-frame=true&margin-w=15" />
 </p>
