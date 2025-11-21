@@ -1,9 +1,9 @@
 <!-- About Me Section -->
 <div align="center">
   <h1 align="center">
-    <p>Hi 👋, I am <b>Ashish Mishra</b></p>
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=009688&center=true&vCenter=true&width=900&lines=M.Tech+Student+at+IIIT-Delhi;Full+Stack+Developer;Cloud+&+DevOps+Enthusiast" alt="Typing SVG" />
-  </h1>
+  <p>Hi 👋, I am <b>Ashish Mishra</b></p>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=009688&center=true&vCenter=true&width=900&lines=M.Tech+Student+at+IIIT-Delhi;Full+Stack+Developer;AI+Engineer;Cloud+Architect;Cloud+&+DevOps+Enthusiast" alt="Typing SVG" />
+</h1>
   <p>
     Pursuing an <b>M.Tech in Computer Science and Engineering</b> at the <b>Indraprastha Institute of Information Technology Delhi (IIITD)</b>.
     <br />
